@@ -107,6 +107,8 @@ WHERE department_id = 90;
 
 SELECT 10/2
 
+#令人感叹,现在我也要想计算机领域发展了
+
 
 
 
